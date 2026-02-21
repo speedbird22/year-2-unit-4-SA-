@@ -75,31 +75,6 @@ The following preprocessing steps were performed:
 - Ensured season formatting consistency
 
 ---
-
-# 📐 Calculated Fields Created
-
-## 1️⃣ Batsman Strike Rate
-
-```
-(SUM(batsman_runs) / COUNT(ball)) * 100
-```
-
-## 2️⃣ Bowler Economy Rate
-
-```
-SUM(total_runs) / (COUNT(ball)/6)
-```
-
-## 3️⃣ Wickets Taken
-
-Count of dismissals excluding run-outs.
-
-## 4️⃣ Toss Win Percentage
-
-Average of toss winner converted to percentage.
-
-
----
 # Tableu storyboard and dashboard link 
 https://public.tableau.com/app/profile/akshith.reddy7261/viz/UNIT4SA/Storyboard?publish=yes
 
