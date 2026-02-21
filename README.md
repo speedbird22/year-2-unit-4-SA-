@@ -227,19 +227,6 @@ The storyboard connects individual performance to team success and tactical evol
 
 ---
 
-# 🎛 Dashboard Features
-
-- Season filter
-- Team filter
-- Player filter
-- Venue filter
-- Interactive tooltips
-- Sorted performance metrics
-
-The dashboard is designed for quick, actionable insight retrieval.
-
----
-
 # 🧪 Testing & Validation
 
 - Verified strike rate and economy calculations manually.
@@ -249,28 +236,6 @@ The dashboard is designed for quick, actionable insight retrieval.
 
 ---
 
-# 🌍 Publishing
-
-- Dashboard published on Tableau Public.
-- Final `.twbx` file uploaded to repository.
-- GitHub repository structured as per assignment guidelines.
-
----
-
-# 📁 Repository Structure
-
-```
-/Data
-    matches.csv
-    deliveries.csv
-
-/Final Tableau File
-    IPL_Analysis.twbx
-
-README.md
-```
-
----
 
 # 🏁 Conclusion
 
@@ -291,3 +256,34 @@ This project demonstrates how data storytelling transforms raw statistics into a
 - Over-by-over pressure analysis
 - Predictive modelling for match outcomes
 - Machine learning integration
+
+---
+
+# 📚 References
+
+The following resources were consulted to support data validation, cricket statistics understanding, Tableau visualisation techniques, and storytelling structure:
+
+1. ESPN Cricinfo – IPL Statistics Database  
+   https://www.espncricinfo.com/
+
+2. Tableau Official Documentation – Data Joins & Relationships  
+   https://help.tableau.com/
+
+3. Tableau Story Points Guide  
+   https://help.tableau.com/current/pro/desktop/en-us/story_create.htm
+
+4. Data-to-Viz – Choosing the Right Chart Type  
+   https://www.data-to-viz.com/
+
+5. Tableau Heatmap Tutorial  
+   https://help.tableau.com/current/pro/desktop/en-us/buildexamples_heatmaps.htm
+
+6. Cricket Analytics Concepts – Strike Rate & Economy Explained  
+   https://www.cricbuzz.com/cricket-stats
+
+7. IPL Official Website – Historical Records & Player Statistics  
+   https://www.iplt20.com/
+
+---
+
+*All visualisations and analysis were independently created using Tableau based on the IPL Complete Dataset provided for academic purposes.*
