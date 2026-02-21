@@ -75,7 +75,7 @@ The following preprocessing steps were performed:
 - Ensured season formatting consistency
 
 ---
-# Tableu storyboard and dashboard link 
+# Tableau storyboard and dashboard link 
 https://public.tableau.com/app/profile/akshith.reddy7261/viz/UNIT4SA/Storyboard?publish=yes
 
 # 📊 Visualisations & Analysis (Graph-by-Graph Explanation)
